@@ -2,5 +2,5 @@
 - `.0` → Network address
 - `.1` → Reserved for the VPC router
 - `.2` → Reserved for DNS
-`.3` → Reserved for future use
-`.255` → Broadcast address
+- `.3` → Reserved for future use
+- `.255` → Broadcast address
